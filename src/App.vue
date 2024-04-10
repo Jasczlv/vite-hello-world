@@ -1,8 +1,9 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
+<script>
+import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
+  <h1>La mia prima app con Vite!</h1>
   <div>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
